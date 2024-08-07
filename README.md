@@ -1,0 +1,2 @@
+# nishika_apartment_price_summer_2024
+Nishikaが開催する全国中古マンションの取引価格_log(2004年夏）を予測します。
